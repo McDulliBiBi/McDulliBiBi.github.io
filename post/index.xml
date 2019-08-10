@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 麦兜兜的blog</title>
+    <link>https://mcdullibibi.github.io/post/</link>
+    <description>Recent content in Posts on 麦兜兜的blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 10 Aug 2019 14:47:26 +0800</lastBuildDate>
+    
+	<atom:link href="https://mcdullibibi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>开车</title>
+      <link>https://mcdullibibi.github.io/post/driving/</link>
+      <pubDate>Sat, 10 Aug 2019 14:47:26 +0800</pubDate>
+      
+      <guid>https://mcdullibibi.github.io/post/driving/</guid>
+      <description>ttt</description>
+    </item>
+    
+    <item>
+      <title>Markdown语法</title>
+      <link>https://mcdullibibi.github.io/post/2019-8-10-md_usage/</link>
+      <pubDate>Sat, 10 Aug 2019 09:40:49 +0800</pubDate>
+      
+      <guid>https://mcdullibibi.github.io/post/2019-8-10-md_usage/</guid>
+      <description>一级标题 二级标题1 二级标题2 加粗
+斜体
+斜体加粗
+删除线
+ 引用
+ 分割线
+图片？
+超链接 百度
+列表 1. 开始 2. 经过 3. 结果
+表格 姓名|年龄|性别 &amp;ndash;|:&amp;ndash;:|&amp;ndash;: A|12|F B|14|M C|15|M
+单行代码 System.out.println(&amp;quot;Hello Mcdull&amp;quot;);
+多行代码 () public static void main(String args[]){ System.out.println(&amp;quot;Hello Mcdull&amp;quot;); } ()
+流程图 flow st=&amp;gt;start: 开始 op=&amp;gt;operation: My Operation cond=&amp;gt;condition: Yes or No? e=&amp;gt;end st-&amp;gt;op-&amp;gt;cond cond(yes)-&amp;gt;e cond(no)-&amp;gt;op &amp;amp;</description>
+    </item>
+    
+  </channel>
+</rss>
