@@ -6,10 +6,19 @@
     <description>Recent content in Categories on 麦兜兜的blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 10 Aug 2019 14:47:26 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mcdullibibi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Note</title>
+      <link>https://mcdullibibi.github.io/categories/note/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcdullibibi.github.io/categories/note/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Life</title>
@@ -17,15 +26,6 @@
       <pubDate>Sat, 10 Aug 2019 14:47:26 +0800</pubDate>
       
       <guid>https://mcdullibibi.github.io/categories/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Note</title>
-      <link>https://mcdullibibi.github.io/categories/note/</link>
-      <pubDate>Sat, 10 Aug 2019 09:40:49 +0800</pubDate>
-      
-      <guid>https://mcdullibibi.github.io/categories/note/</guid>
       <description></description>
     </item>
     

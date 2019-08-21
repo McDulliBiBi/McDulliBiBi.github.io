@@ -6,10 +6,26 @@
     <description>Recent content in Posts on 麦兜兜的blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 10 Aug 2019 14:47:26 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mcdullibibi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fabric安装及使用</title>
+      <link>https://mcdullibibi.github.io/post/fabric/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcdullibibi.github.io/post/fabric/</guid>
+      <description>应用服务器越来越多，每次发布都需要在不同的机器上敲同样的命令，太痛苦了。为了解决这个问题，决定尝试用用fabric。
+fabric是一个python库，采用ssh的原理实现在一台机器上部署多台机器的应用，简化发布流程
+中文官方文档：https://fabric-chs.readthedocs.io/zh_CN/chs/tutorial.html
+安装说明 安装python  过程： ？ 查看python版本：python -V
+  安装Yum  查看是否安装yum rpm -qa | grep yum
+ 安装yum
+wget http://yum.baseurl.org/download/3.2/yum-3.2.28.tar.gz tar xvf yum-3.2.28.tar.gz cd yum-3.2.28 sudo touch /etc/yum.conf sudo yummain.py install yum   安装python-devel  查看是否安装python-devel rpm -qa | grep python-devel 安装python-devel sudo yum -y install python-devel  安装pip  联网安装： 下载py文件：https://bootstrap.pypa.io/get-pip.py curl https://bootstrap.pypa.io/get-pip.py &amp;gt; get-pip.py python get-pip.py / sudo python get-pip.py 离线安装：（因为系统组把服务器的网络访问权限关了摊手）
+2.1 下载setuptools及pip安装包到本地，然后上传到服务器。</description>
+    </item>
     
     <item>
       <title>开车</title>
